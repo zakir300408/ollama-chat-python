@@ -90,5 +90,5 @@ gemma3:12b → Hi there! How can I help you today?
 
 ## License
 
-This project is released under the MIT License.
+None, can be used by anyone for anything
 
