@@ -63,7 +63,7 @@ By default it listens on `http://127.0.0.1:11434`.
 ## 4. Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/ollama-chat-client.git
+git clone https://github.com/zakir300408/ollama-chat-python.git
 cd ollama-chat-client
 ```
 
